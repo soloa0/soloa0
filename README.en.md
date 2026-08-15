@@ -2,7 +2,9 @@
 
 **Independent AI Application Engineer** — building production AI systems end-to-end, solo, since 2022.
 
-🌐 Portfolio: [soloa.work](https://soloa.work)
+> **🌐 Language / 切换语言: [🇨🇳 中文版 →](README.md)**
+
+🌐 Portfolio: [soloa.work](https://soloa.work/en/)
 📫 Email: **service@soloa.work**
 🕘 Timezone: UTC+8 Beijing · Weekdays 9:00–22:00
 
