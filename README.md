@@ -2,7 +2,9 @@
 
 **独立 AI 应用工程师**——自 2022 年起单人全栈交付生产级 AI 系统。
 
-🌐 作品集: [soloa.work](https://soloa.work) | [soloa.work 中文版](https://soloa.work/zh/)
+> **🌐 切换语言 / Language: [🇺🇸 English Version →](README.en.md)**
+
+🌐 作品集: [soloa.work](https://soloa.work/zh/)
 📫 邮箱: **service@soloa.work**
 🕘 时区: UTC+8 北京 · 周一至周五 9:00–22:00
 
